@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE HW\\Arcana\\Arcana\\Source\\Arcana\\Arcana.Build.cs",
+		"C:\\UE HW\\Arcana\\Arcana\\Source\\Arcana.Target.cs",
+		"C:\\UE HW\\Arcana\\Arcana\\Source\\ArcanaEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
